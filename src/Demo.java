@@ -25,7 +25,7 @@ public class Demo {
 		System.out.println("Aktuellere Gang -Porsche "+porsche911.currentGear);
 		System.out.println("Aktuellere Gang -Porsche "+audiA3.currentGear);
 		porsche911.nextGear();
-		System.out.println(porsche911.currentGear);
+		System.out.println(audiA3.currentGear);
 		System.out.println("Aktuellere Gang -Porsche "+porsche911.currentGear);
 		System.out.println("Aktuellere Gang -Porsche "+audiA3.currentGear);
 		
